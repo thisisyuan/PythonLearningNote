@@ -1,2 +1,2 @@
 # PythonLearningNote
-2020数据科学选修
+2019-2020 SEU Python and Data Science
